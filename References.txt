@@ -1,0 +1,14 @@
+## The references are:
+
+
+* https://stackoverflow.com/a/21197863
+
+* http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.convert_objects.html
+
+* https://pypi.python.org/pypi/fancyimpute
+
+* http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html
+
+* http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
+
+* http://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html
